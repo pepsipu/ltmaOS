@@ -1,0 +1,2 @@
+[build]
+target = ".cargo/x86_64.json"

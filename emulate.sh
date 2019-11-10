@@ -1,0 +1,1 @@
+qemu-system-x86_64 -drive format=raw,file=/home/pepsipu/CLionProjects/ltmaOS/target/x86_64/debug/bootimage-ltma_os.bin -s

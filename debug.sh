@@ -1,0 +1,1 @@
+gdb -ex 'target remote localhost:1234' -ex 'symbol-file /home/pepsipu/CLionProjects/ltmaOS/target/x86_64/debug/ltma_os' -ex 'break _start' -ex 'c'
